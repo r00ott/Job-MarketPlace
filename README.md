@@ -42,6 +42,9 @@ You can deploy this project by following these steps:
    Run the following command to create a production build:
    ```bash
    npm run build
+![MIT License](https://img.shields.io/badge/license-MIT-green)
 
-   ![MIT License](https://img.shields.io/badge/license-MIT-green)
+
+
+   
 
